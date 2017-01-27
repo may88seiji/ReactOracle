@@ -1,0 +1,9 @@
+body{
+    background: #f2f2f2;
+    text-align: center;
+    color: red;
+}
+#root{
+    font-size: 48px;
+    font-weight: bold;            
+}
