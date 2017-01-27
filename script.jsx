@@ -21,6 +21,6 @@ var Oracle = React.createClass({
 });
 
 ReactDOM.render(
-    <Oracle　/>,
+    <Oracle />,
     document.getElementById('root')
 );
